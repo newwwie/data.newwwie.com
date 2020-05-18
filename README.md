@@ -6,24 +6,28 @@
 
 https://JackMcKew.github.io/hunterdataanalytics/
 
-# My Blog
+# Site for Hunter Data Analytics
 
+![Hunter Data Analytics Logo](images/Logo.jpg)
+
+We are a monthly meetup that welcomes all ages, skill levels and backgrounds of the data community in Newcastle and the Hunter Region.
+
+All we ask, is for you to bring your curiosity and a top notch attitude!
+
+We also strongly encourage ties between academia and industry as well as student engagement.
+
+Meetups are a monthly careers expo after all.
+
+Join us!
+
+We encourage members of the community to share you work via this page by adding to the [repository](https://github.com/JackMcKew/hunterdataanalytics)!
+
+Some helpful links for creating content:
+
+- [Writing Posts With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+
+- [Writing Posts With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+
+- [Writing Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
-
-
-## What To Do Next?
-
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
-
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
-
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
-
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
-
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
