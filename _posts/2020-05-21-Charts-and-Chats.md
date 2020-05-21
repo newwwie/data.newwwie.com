@@ -34,9 +34,7 @@ Another similar tool: <https://codebots.com/>
 
 <https://medium.com/analytics-vidhya/deploy-machinelearning-model-with-flask-and-heroku-2721823bb653>
 
-### Notes
-
-- Voila & Binder <https://github.com/fastai/fastbook/blob/master/02_production.ipynb>
+> Note: A similar workflow: Voila & Binder <https://github.com/fastai/fastbook/blob/master/02_production.ipynb>
 
 ## ASX Statistics Visualisations (Antione Desmet)
 
@@ -52,7 +50,7 @@ COVID Crowdfight for volunteering your time & skills <https://crowdfightcovid19.
 
 COVID NSW Visualisation by Jack McKew 
 
-youtube: https://www.youtube.com/watch?v=qyqiYrtpxRE
+> youtube: https://www.youtube.com/watch?v=qyqiYrtpxRE
 
 ## Admission Statistics & Visualisations (Andrew Goodwin)
 
