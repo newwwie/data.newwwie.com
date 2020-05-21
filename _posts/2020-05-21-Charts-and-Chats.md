@@ -26,6 +26,8 @@ Another similar tool: <https://codebots.com/>
 
 ## Deploying Models with Flask & Heroku (Josh Peak)
 
+<https://medium.com/analytics-vidhya/deploy-machinelearning-model-with-flask-and-heroku-2721823bb653>
+
 ### Notes
 
 - Voila & Binder <https://github.com/fastai/fastbook/blob/master/02_production.ipynb>
