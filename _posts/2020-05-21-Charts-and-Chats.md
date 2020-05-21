@@ -1,4 +1,10 @@
-# Charts & Chats 21-05-2020
+---
+toc: true
+layout: post
+description: Online Meetup due to Pandemic, 5 min lightning talks from community members
+categories: [markdown]
+title: Charts & Chats Meetup 21-05-2020
+---
 
 ## New HDA website
 
