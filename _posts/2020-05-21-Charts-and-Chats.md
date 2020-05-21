@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 layout: post
 description: Online Meetup due to Pandemic, 5 min lightning talks from community members
 categories: [markdown]
@@ -50,7 +50,9 @@ Another similar blog series on automatic balancing portfolios: <https://jackmcke
 
 COVID Crowdfight for volunteering your time & skills <https://crowdfightcovid19.org/volunteers>
 
-COVID NSW Visualisation by Jack McKew <https://www.youtube.com/watch?v=qyqiYrtpxRE>
+COVID NSW Visualisation by Jack McKew 
+
+youtube: https://www.youtube.com/watch?v=qyqiYrtpxRE
 
 ## Admission Statistics & Visualisations (Andrew Goodwin)
 
