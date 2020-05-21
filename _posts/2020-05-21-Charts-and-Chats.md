@@ -50,7 +50,7 @@ COVID Crowdfight for volunteering your time & skills <https://crowdfightcovid19.
 
 COVID NSW Visualisation by Jack McKew 
 
-> youtube: https://www.youtube.com/watch?v=qyqiYrtpxRE
+youtube: https://www.youtube.com/watch?v=qyqiYrtpxRE
 
 ## Admission Statistics & Visualisations (Andrew Goodwin)
 
