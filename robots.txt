@@ -1,1 +1,1 @@
-Sitemap: https://jackmckew.github.io/hunterdataanalytics/sitemap.xml
+Sitemap: data.newwwie.com/sitemap.xml
