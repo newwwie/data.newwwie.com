@@ -8,7 +8,7 @@ title: Charts & Chats Meetup 21-05-2020
 
 ## New HDA website
 
-<https://jackmckew.github.io/hunterdataanalytics/>
+<http://data.newwwie.com/>
 
 ## Pandas_Alive (Jack McKew)
 
