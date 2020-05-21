@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="data.newwwie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="data.newwwie.com/" rel="alternate" type="text/html" /><updated>2020-05-21T04:41:06-05:00</updated><id>data.newwwie.com/feed.xml</id><title type="html">Hunter Data Analytics</title><subtitle>We are a monthly meetup that welcomes all ages, skill levels and backgrounds of the data community in Newcastle and the Hunter Region.</subtitle><entry><title type="html">Charts And Chats</title><link href="data.newwwie.com/2020/05/21/Charts-and-Chats.html" rel="alternate" type="text/html" title="Charts And Chats" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>data.newwwie.com/2020/05/21/Charts-and-Chats</id><content type="html" xml:base="data.newwwie.com/2020/05/21/Charts-and-Chats.html">&lt;h1 id=&quot;charts--chats-21-05-2020&quot;&gt;Charts &amp;amp; Chats 21-05-2020&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="data.newwwie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="data.newwwie.com/" rel="alternate" type="text/html" /><updated>2020-05-21T04:42:18-05:00</updated><id>data.newwwie.com/feed.xml</id><title type="html">Hunter Data Analytics</title><subtitle>We are a monthly meetup that welcomes all ages, skill levels and backgrounds of the data community in Newcastle and the Hunter Region.</subtitle><entry><title type="html">Charts And Chats</title><link href="data.newwwie.com/2020/05/21/Charts-and-Chats.html" rel="alternate" type="text/html" title="Charts And Chats" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>data.newwwie.com/2020/05/21/Charts-and-Chats</id><content type="html" xml:base="data.newwwie.com/2020/05/21/Charts-and-Chats.html">&lt;h1 id=&quot;charts--chats-21-05-2020&quot;&gt;Charts &amp;amp; Chats 21-05-2020&lt;/h1&gt;
 
 &lt;h2 id=&quot;new-hda-website&quot;&gt;New HDA website&lt;/h2&gt;
 
@@ -836,7 +836,7 @@ And another {% fn 2 %}
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
 
