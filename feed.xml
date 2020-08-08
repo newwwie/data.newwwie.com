@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="data.newwwie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="data.newwwie.com/" rel="alternate" type="text/html" /><updated>2020-05-27T23:24:57-05:00</updated><id>data.newwwie.com/feed.xml</id><title type="html">Hunter Data Analytics</title><subtitle>We are a monthly meetup that welcomes all ages, skill levels and backgrounds of the data community in Newcastle and the Hunter Region.</subtitle><entry><title type="html">Charts &amp;amp; Chats Meetup 21-05-2020</title><link href="data.newwwie.com/meetups/2020/05/21/Charts-and-Chats.html" rel="alternate" type="text/html" title="Charts &amp; Chats Meetup 21-05-2020" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>data.newwwie.com/meetups/2020/05/21/Charts-and-Chats</id><content type="html" xml:base="data.newwwie.com/meetups/2020/05/21/Charts-and-Chats.html">&lt;h2 id=&quot;new-hda-website&quot;&gt;New HDA website&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="data.newwwie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="data.newwwie.com/" rel="alternate" type="text/html" /><updated>2020-08-07T23:31:07-05:00</updated><id>data.newwwie.com/feed.xml</id><title type="html">Hunter Data Analytics</title><subtitle>We are a monthly meetup that welcomes all ages, skill levels and backgrounds of the data community in Newcastle and the Hunter Region.</subtitle><entry><title type="html">Charts &amp;amp; Chats Meetup 21-05-2020</title><link href="data.newwwie.com/meetups/2020/05/21/Charts-and-Chats.html" rel="alternate" type="text/html" title="Charts &amp; Chats Meetup 21-05-2020" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>data.newwwie.com/meetups/2020/05/21/Charts-and-Chats</id><content type="html" xml:base="data.newwwie.com/meetups/2020/05/21/Charts-and-Chats.html">&lt;h2 id=&quot;new-hda-website&quot;&gt;New HDA website&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://data.newwwie.com/&quot;&gt;http://data.newwwie.com/&lt;/a&gt;&lt;/p&gt;
 
@@ -794,7 +794,7 @@ And another {% fn 2 %}
 
 &lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
 
-&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
+&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -893,10 +893,10 @@ wget https://example.com/cat_photo1.png
 
 &lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry></feed>
